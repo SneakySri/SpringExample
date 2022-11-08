@@ -1,0 +1,6 @@
+com\amazonCustomer\others\SwaggerConfig.class
+com\amazonCustomer\Entity\Customer.class
+com\amazonCustomer\Controller\CustomerController.class
+com\amazonCustomer\AmazonCustomerApplication.class
+com\amazonCustomer\Service\CustomerService.class
+com\amazonCustomer\Repository\CustomerRepo.class
